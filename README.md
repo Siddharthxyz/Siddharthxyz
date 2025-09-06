@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&width=435&lines=Hi+There!+👋;I'm+Siddharth+😀;AI+%7C+ML+Enthusiast;Tech+Explorer+🚀;Always+Learning+📚)](https://git.io/typing-svg)
   
 
-I'm a Computer Science Student | Learner | Tech Enthusiast  
+I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cloud** ☁️, and pushing limits in both **code and fitness** 🏋️‍♂️  
+
 
 ---
 
