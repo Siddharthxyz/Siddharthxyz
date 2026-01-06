@@ -16,9 +16,6 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=600&color=00F7FF&width=600&lines=Deep+Learning;Machine+Learning;Computer+Vision;Natural+Language+Processing;MLOps;Generative+AI" />
-</p>
 
 ### 🔥 Skills & Interests:
 
@@ -51,10 +48,16 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎯 My Hobbies and Interests:
-- Traveling ✈️  
-- Passionate about Gym & Fitness 💪  
-- Coding 💻  
+### 🎯 My Hobbies and Interests
+
+<p>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Airplane/3D/Airplane_3D.png" width="26"/> Traveling  
+  <br/>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Flexed%20Biceps/3D/Flexed_Biceps_3D.png" width="26"/> Gym & Fitness  
+  <br/>
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/Laptop_3D.png" width="26"/> Coding  
+</p>
+
 
 ---
 
