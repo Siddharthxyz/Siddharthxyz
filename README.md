@@ -1,14 +1,28 @@
-# 😎 Hey! Nice to see you.
+<!-- Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Siddharth+Dey;AI+%7C+ML+Enthusiast;Computer+Vision+%7C+GenAI;Always+Building+🚀" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&width=435&lines=Hi+There!+👋;I'm+Siddharth+😀;AI+%7C+ML+Enthusiast;Tech+Explorer+🚀;Always+Learning+📚)](https://git.io/typing-svg)
-  
+# 😎 Hey! Nice to see you. Siddharth here..
+
 
 I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cloud** ☁️, and pushing limits in both **code and fitness** 🏋️‍♂️  
 
 
 ---
 
+## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=600&color=00F7FF&width=600&lines=Deep+Learning;Machine+Learning;Computer+Vision;Natural+Language+Processing;MLOps;Generative+AI" />
+</p>
+
 ### 🔥 Skills & Interests:
+
 - Deep Learning  
 - Machine Learning  
 - Computer Vision  
@@ -59,3 +73,7 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Siddharthxyz&label=Profile%20views&color=0e75b6&style=flat)
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
