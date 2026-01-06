@@ -16,7 +16,6 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=600&color=00F7FF&width=600&lines=Deep+Learning;Machine+Learning;Computer+Vision;Natural+Language+Processing;MLOps;Generative+AI" />
 </p>
