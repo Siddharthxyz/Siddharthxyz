@@ -49,15 +49,9 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎯 My Hobbies and Interests
-
-<p>
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Airplane/3D/Airplane_3D.png" width="26"/> Traveling  
-  <br/>
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Flexed%20Biceps/3D/Flexed_Biceps_3D.png" width="26"/> Gym & Fitness  
-  <br/>
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/Laptop_3D.png" width="26"/> Coding  
-</p>
-
+- Traveling ✈️  
+- Gym & Fitness 💪  
+- Coding 💻  
 
 ---
 
