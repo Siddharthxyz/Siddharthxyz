@@ -63,8 +63,11 @@ I'm an **IT Student** who loves building cool projects 💡, exploring **AI & Cl
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthxyz&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siddharthxyz&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Siddharthxyz&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siddharthxyz&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Siddharthxyz&layout=compact&theme=tokyonight)
 
 ---
 
